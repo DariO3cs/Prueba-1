@@ -1,0 +1,35 @@
+.principal {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    text-decoration: none;
+    
+  }
+.principal li {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.principal li a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.cajon {
+    width: 1300px; /* Cambia el valor según tus necesidades */
+    height: 300px; /* Cambia el valor según tus necesidades */
+    border: 1px solid black; /* Borde de 1px de grosor y sólido */
+    padding: 20px; /* Espacio interno de 20px */
+    box-sizing: border-box; /* Para que el padding no incremente el tamaño total */
+  }
+
+  .cajon button {
+    border-radius: 20px;
+    margin-right: 20px;;
+  }
+
+  .Cajonazo{
+    width: 1300px;
+    height: 30px;
+    background-color: aliceblue;
+  }
